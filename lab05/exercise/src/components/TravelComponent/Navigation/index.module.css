@@ -1,0 +1,38 @@
+.navigationWrap {
+    display: flex;
+    width: 70%;
+    height: 180px;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+
+.itemNav {
+    width: 33.33%;
+    height: 120px;
+    background-color: red;
+    margin-top: 30px;
+    text-align: center;
+    line-height: 120px;
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    color: #fff;
+}
+
+.itemNav + .itemNav {
+    margin-left: 50px;
+
+}
+
+.itemNav:nth-child(1) {
+    background-color: #f0932b;
+}
+
+.itemNav:nth-child(2) {
+    background-color: #686de0;
+}
+
+.itemNav:nth-child(3) {
+    background-color: #badc58;
+}

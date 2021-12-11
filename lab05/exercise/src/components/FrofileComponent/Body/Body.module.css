@@ -1,0 +1,14 @@
+.title {
+    border-bottom: 4px solid #B85C38;
+}
+
+.footer {
+    margin-top: 100px;
+    width: 600px;
+}
+
+.footerTitle {
+    border-bottom: 4px solid #B85C38;
+    margin-right: 150px;
+    text-transform: uppercase;
+}

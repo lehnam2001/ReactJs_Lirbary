@@ -1,0 +1,51 @@
+.headerNavbar {
+    height: 90px;
+    display: flex;
+    align-items: center;
+}
+
+.title {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.contact {
+    display: flex;
+    height: 90px;
+    align-items: center;
+    width: 270px;
+    background-color: #6ab04c;
+    color: #fff;
+}
+
+.backGroundHeader {
+    height: 500px;
+    background-size: cover;
+    animation: zooIn 10s linear infinite;
+}
+
+
+.discription {
+    margin-top: 100px;
+    margin-left: 200px;
+    color: #fff;
+}
+
+.buttonHeading {
+    outline: none;
+    background-color: #f0932b;
+    border-radius: 2px;
+    height: 50px;
+    width: 200px;
+    border: none;
+    margin-left: 200px;
+    margin-top: 30px;
+    color: #fff;
+}
+
+.buttonHeading:hover {
+    cursor: pointer;
+    opacity: 0.8;
+    transform: translateY(-2px);
+}

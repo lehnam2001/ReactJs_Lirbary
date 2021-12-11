@@ -1,0 +1,37 @@
+.container {
+    height: 555px;
+    background-image: url('../../assets/img/countdown.jfif');
+    background-size: cover;
+}
+
+.title {
+    width: 100%;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.list {
+    display: flex;
+    color: #fff;
+    width: 70%;
+    justify-content: space-evenly;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+.item {
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    border: 1px solid #fff;
+    text-align: center;
+    line-height: 30px;
+    padding-top: 20px;
+}
+
+.footer {
+    text-align: center;
+    width: 100%;
+    margin-top: 30px;
+    color: #fff;
+}

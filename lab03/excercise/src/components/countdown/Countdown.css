@@ -1,0 +1,51 @@
+.container-countdown {
+    width: 600px;
+    height: 300px;
+    background-color: #DD4A48;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    -webkit-box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+    box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+}
+
+.screen-countdown {
+    height: 250px;
+    line-height: 250px;
+    width: 100%;
+    font-size: 2rem;
+}
+
+
+.btn-start, .btn-reset {
+    width: 100px;
+    height: 30px;
+    color: #fff;
+    outline: none;
+    border: none;
+    border-radius: 2px;
+    -webkit-box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+    box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+}
+
+.btn-start {
+    background-color: #009DAE;
+}
+
+.btn-start:hover {
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.btn-reset {
+    background-color: #FFE652;
+    margin-left: 20px;
+    color: #333;
+}
+
+.btn-reset:hover{
+    cursor: pointer;
+    opacity: 0.8;
+}

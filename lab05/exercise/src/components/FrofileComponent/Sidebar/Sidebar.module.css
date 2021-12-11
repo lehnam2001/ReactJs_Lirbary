@@ -1,0 +1,31 @@
+.contact {
+    width: 100%;
+    background-color: #2C394B;
+    color: #fff;
+}
+
+.expertise {
+    width: 100%;
+    background-color: #334756;
+    color: #fff;
+}
+
+.language {
+    width: 100px;
+}
+
+.school {
+    width: 200px;
+    display:block;
+}
+
+.progressExpertise {
+    width: 180px;
+    margin-left: 20px;   
+}
+
+.education {
+    width: 100%;
+    background-color: #787A91;
+    color: #fff;
+}

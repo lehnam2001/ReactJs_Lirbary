@@ -1,0 +1,37 @@
+.imgUser {
+    width: 100%;
+    object-fit: cover;
+}
+
+.headerInfo {
+    height: 130px;
+    background-color: #ECB365;
+    display: flex;
+    align-items: center;
+}
+
+.headerTitle {
+    width: 95%;
+    height: 50px;
+    line-height: 50px;
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    margin-left: -15px;
+}
+
+.name {
+    font-size: 3.5rem;
+}
+
+.title {
+    border-bottom: 4px solid #064663;
+}
+
+.description {
+    width: 100%;
+    text-align: justify;
+    padding: 0 5px;
+    margin-top: 5px;
+}
+
