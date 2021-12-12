@@ -1,0 +1,17 @@
+
+.itemTodo {
+    color: red;
+    text-decoration: line-through;
+    display: flex;
+    margin-top: 10px;
+    border-bottom: 1px solid #71DFE7;
+    align-items: center;
+}
+
+.itemTodo + .itemTodo {
+    margin-top: 5px;
+}
+.itemAddTodo {
+    color: #71DFE7;
+    text-decoration: none;
+}

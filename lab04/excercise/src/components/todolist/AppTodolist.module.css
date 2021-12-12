@@ -1,0 +1,58 @@
+.container {
+    width: 700px;
+    height: 400px;
+    background-color: #041C32;
+    margin: 50px auto;
+}
+
+.title {
+    color: #71DFE7;
+    text-align: left;
+    margin-left: 20px;
+    padding-top: 2px;
+}
+
+.listTodo {
+    width: 550px;
+    height: 232px;
+    overflow-y: scroll;
+    padding:0;
+    margin: 0 auto;
+    list-style: none;   
+    border-radius: 5px;
+    border:3px solid #99A799;
+    background-color: rgba(255, 255, 255, 0.2);
+
+}
+
+.listTodo::-webkit-scrollbar {
+    width: 1px;
+}
+
+.listTodo::-webkit-scrollbar-thumb {
+    color: #fff;
+}
+
+.input {
+    width: 450px;
+    height: 30px;
+    border-radius: 5px;
+    border:3px solid #99A799;
+    margin-top: 20px;
+}
+
+.button {
+    margin-left: 10px;
+    width: 80px;
+    height: 38px;
+    border-radius: 5px;
+    border:3px solid #99A799;
+    margin-bottom: 7px;
+}
+
+.nameTodo {
+    width: 320px;
+    margin-bottom: 5px;
+}
+
+
