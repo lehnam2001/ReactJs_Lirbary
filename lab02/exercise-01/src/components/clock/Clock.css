@@ -1,0 +1,19 @@
+.container {
+    width: 200px;
+    height: 100px;
+    background-color: #97BFB4;
+    border: 2px solid #DD4A48;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+.city {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 1.3rem;
+}
+.time {
+    text-align: center;
+    font-size: 1.2rem;
+    display: block;
+}
